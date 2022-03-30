@@ -21,6 +21,9 @@ class ClassCounter extends Component {
                 <div>classcounter</div>
                 <button onClick={this.incrementCount}>Count {this.state.count}</button>
                 <Input type="text"></Input>
+                <Input type="text"></Input>
+                <Input type="text"></Input>
+
             </div>
 
         )
